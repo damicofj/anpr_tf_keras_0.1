@@ -1,0 +1,89 @@
+GCP:
+https://console.cloud.google.com/compute/instances?project=stellar-envoy-277020&instancessize=50
+
+
+
+
+
+
+
+
+
+Kaggle Base:
+https://www.kaggle.com/foolishboi/license-plate-recognition-final
+
+Sistema completo license plate detection 99% de precisión con 2 neural nets en pytorch
+https://www.kaggle.com/vineeth1999/licenseplatedetection
+
+Este tiene ejemplo con números etiquetados y post en TDS y código de github:
+https://www.kaggle.com/sarthakvajpayee/license-plate-recognition-using-cnn
+https://towardsdatascience.com/ai-based-indian-license-plate-detector-de9d48ca8951
+https://github.com/SarthakV7/AI-based-indian-license-plate-detection
+
+
+
+
+
+
+
+Guia reconcedor con Tesseract:
+https://www.pyimagesearch.com/2020/09/21/opencv-automatic-license-number-plate-recognition-anpr-with-python/
+Guia reconocedor MNIST con Keras:
+(96% precision)
+https://www.pyimagesearch.com/2020/08/17/ocr-with-keras-tensorflow-and-deep-learning/
+(99% precision)
+https://towardsdatascience.com/going-beyond-99-mnist-handwritten-digits-recognition-cfff96337392
+
+
+
+
+
+
+Kaggle otros: 
+Kaggle search:
+https://www.kaggle.com/search?q=license+plate
+
+Kaggle Modelos:
+
+https://www.kaggle.com/amithkumarc3/license-plate-recognition
+
+https://www.kaggle.com/vineeth1999/licenseplatedetection
+
+
+
+
+Busqueda de datasets:
+https://www.kaggle.com/search?q=license+plate+in%3Adatasets
+
+https://www.kaggle.com/mclikmb4/vehicle-license-plate-detection-vgg16?select=annotations
+
+200 de todo el mundo
+https://www.kaggle.com/aritrag/license
+
+400 europeas
+https://www.kaggle.com/pcmill/license-plates-on-vehicles?select=1YBq69WVIPlgr4JI.jpg
+
+2.000 indues
+https://www.kaggle.com/kedarsai/indian-license-plates-with-labels
+
+12.000 patentes indues
+https://www.kaggle.com/chiraggodaw/license-plate-dataset-resized
+
+10.000 indues
+https://www.kaggle.com/thamizhsterio/indian-license-plates
+
+18.000 indues autogeneradas
+https://www.kaggle.com/abtexp/synthetic-indian-license-plates
+
+100.000 turcas autogeneradas - buenisima la idea, les puedo meter ruido y zoom y generar de todo el mundo
+https://www.kaggle.com/tustunkok/synthetic-turkish-license-plates
+
+188.000 europeas o rusas autogeneradas
+https://www.kaggle.com/tbjorklund/annotated-synthetic-license-plates
+
+
+
+
+
+split name para analizarlo:
+https://python-forum.io/Thread-How-to-split-name-jpg-and-get-the-string-name
