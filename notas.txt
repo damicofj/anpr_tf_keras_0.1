@@ -5,10 +5,6 @@ https://console.cloud.google.com/compute/instances?project=stellar-envoy-277020&
 
 
 
-
-
-
-
 Kaggle Base:
 https://www.kaggle.com/foolishboi/license-plate-recognition-final
 
@@ -80,7 +76,6 @@ https://www.kaggle.com/tustunkok/synthetic-turkish-license-plates
 
 188.000 europeas o rusas autogeneradas
 https://www.kaggle.com/tbjorklund/annotated-synthetic-license-plates
-
 
 
 
